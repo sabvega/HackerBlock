@@ -1,0 +1,70 @@
+html{
+	background-color: #660066;
+}
+
+/*
+pink: #FF6699
+purple: #660066
+yellow: #FFFF66
+*/
+ 
+body{
+	margin: 5% 10% 10% 10%;
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFF66;
+	text-align: center;
+}
+
+.header{
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	font-size: 20px;	
+}
+
+.header:hover{
+	color: gray;
+	font-size: 25px;
+}
+.intro:hover{
+	color:gray;
+	font-size: 22px;
+}
+
+.intro{
+	margin-left: center;
+	margin-right: center;
+	
+	text-align: center;
+	font-size: 15px;
+	
+}
+
+a{
+	color: #FF6699;
+}
+
+button{
+	color:#FFF;
+	background-color: #FF6699;
+	font-weight: bold;
+	text-transform: uppercase;
+	border: 3px solid gray;
+	cursor:pointer;
+	margin-bottom: 5%;
+	border-radius: 10px;
+}
+button:hover{
+	background-color:gray;
+	color:purple;
+}
+
+
+.footer{
+	margin-top: 5%;
+	font-size: 15px;
+	color: #FFFF66;
+	text-align: center;
+	text-align: bottom;
+
+}
